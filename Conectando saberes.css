@@ -1,0 +1,48 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    background-color: #1b325f;
+    color: #e9f2f9;
+    align-items: center;
+    header:120px;
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+h2{
+    font-size: 45px;
+    color:#1b325f;
+}
+p{
+    font-size: 40px;
+    color: #9cc4e4;
+}
+#imgum{
+    height: 400px;
+    width: 450px;
+}
+section{
+    display: flex;
+    
+}
+#pu{
+    font-size: 30px;
+    color: black;
+}
+a{
+    padding-left: 150px;
+    color: #e9f2f9;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: #9cc4e4;
+    font-size: 30px;
+
+    
+}
